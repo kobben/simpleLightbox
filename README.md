@@ -1,5 +1,3 @@
-##Simple Lightbox 
-
 TRY IT OUT HERE: https://kartoweb.itc.nl/simpleLightbox/ 
 
 **simple lightbox type viewer for images in website**
